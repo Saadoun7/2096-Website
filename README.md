@@ -1,6 +1,5 @@
-Preview Website: https://nightrunners02.github.io/2096-Website/
+- Preview Website: https://nightrunners02.github.io/2096-Website/
 ---
-
 <details> 
   <summary>
   <h2> ⛓️‍💥 Misc / Lain-lain</h2> 
